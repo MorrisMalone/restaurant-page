@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.12.0"
+  },
+  "dependencies": {
+    "tabsy-css": "^1.0.0"
   }
 }
